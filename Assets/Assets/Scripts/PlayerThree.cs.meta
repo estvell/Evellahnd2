@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 06d86fa6507352d4cae358b6c30b2677
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Score: {instanceID: 0}
+  - winText: {instanceID: 0}
+  - playerCollectSound: {fileID: 8300000, guid: 4bd8c020404e7d7478233ccfc2239f04,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
