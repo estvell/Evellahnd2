@@ -1,0 +1,11 @@
+
+	void SetScore ()
+	{
+
+		Score.text = "Score: " + count.ToString ();
+		if (count >= 11) 
+		{
+			winText.text="Level 1 Accomplished!";
+			Application.LoadLevel(3);
+		}
+	}
